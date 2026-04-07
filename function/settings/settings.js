@@ -14,18 +14,18 @@ global.setting = {
  }
 
 global.info = {
- nomerbot : '201214001875',
+ nomerbot : '212605784394',
  pairingNumber : '201214001875',
- figlet: 'SHADOW AI', // create a start console display
- nomorwa : '201214001875',
- nameown : 'Alper',
- nomerown : '201558880163',
+ figlet: 'silanalite', // create a start console display
+ nomorwa : '212605784394',
+ nameown : 'NOUREDDINE',
+ nomerown : '212717457920',
  packname : 'sticker by ',
- author : 'SHADOW AI',
- namebot : '乂 SHADOW AI',
- wm : 'SHADOW AI.',
+ author : 'SILANA AI',
+ namebot : '乂 SILANA AI',
+ wm : 'SILANA LITE.',
  stickpack : 'Whatsapp',
- stickauth : 'SHADOW AI',
+ stickauth : 'SILANA LITE',
  jid: '@s.whatsapp.net'
 }
 
@@ -34,11 +34,11 @@ global.media = {
  ppKosong : 'https://i.ibb.co/3Fh9V6p/avatar-contact.png',
  didyou : 'https://telegra.ph/file/e40219cc8d472025f18b6.jpg',
  rulesBot : 'https://telegra.ph/file/7cd8985216ffd3c376238.jpg',
- thumbnail : 'https://files.catbox.moe/hnbuh3.jpg',
- thumb : 'https://files.catbox.moe/hnbuh3.jpg',
- logo : 'https://files.catbox.moe/hnbuh3.jpg',
+ thumbnail : 'https://cdn.hisoka.net/f157ca91e615477f7ff8c138e2d6a183.jpeg',
+ thumb : 'https://cdn.hisoka.net/a85121e3c86607f356102d5390423ce8.jpeg',
+ logo : 'https://cdn.hisoka.net/51355cec238535562b1fe2f71e7cbcb2.jpeg',
  unReg : 'https://telegra.ph/file/ef02d1fdd59082d05f08d.jpg',
- registrasi : 'https://files.catbox.moe/hnbuh3.jpg',
+ registrasi : 'https://cdn.hisoka.net/51355cec238535562b1fe2f71e7cbcb2.jpeg',
  confess : 'https://telegra.ph/file/bfef7e33bc60dd2608ac6.jpg',
  access : 'https://telegra.ph/file/5c35d4a180b9074a9f11b.jpg',
  tqto : 'https://telegra.ph/file/221aba241e6ededad0fd5.jpg',
